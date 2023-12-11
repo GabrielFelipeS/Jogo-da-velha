@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702252324 source:c:\users\dell\onedrive\documentos\faculdade\disciplinas\3° semestre\estrutura de dados 2\jogo da velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"jogo-da-velha.h"
+
+1702252315 c:\users\dell\onedrive\documentos\faculdade\disciplinas\3° semestre\estrutura de dados 2\jogo da velha\jogo-da-velha.h
+	<conio.h>
+
+1702259768 source:c:\users\dell\onedrive\documentos\faculdade\disciplinas\3° semestre\estrutura de dados 2\jogo da velha\jogo-da-velha.c
+	"jogo-da-velha.h"
+
